@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a developer with a strong background in enterp
 
 ## 👨‍💻 About Me
 * 🔭 I currently work at J.P. Morgan, specializing in the **Salesforce ecosystem** (Apex, LWC, CRM Analytics, Agentforce).
-* 🌱 I’m currently exploring AI development tools, including the Gemini API, Claude, and setting up environments with Node.js.
+* 🌱 I’m currently exploring AI development tools, including the Gemini API, Claude.
 * 👯 I’m looking to collaborate on interesting AI or Salesforce-related open-source projects.
 * ⚡ Fun fact: When I'm away from the keyboard, I'm usually grinding ranks in VALORANT, watching cricket, or out riding my bike.
 
